@@ -1,0 +1,69 @@
+styles.css body {
+  font-family: sans-serif;
+  background-color: #707b7c;
+}
+
+/* Noticias de internet */
+.Titulo {
+  color: black;
+  font-size: 90px;
+  text-align: center;
+}
+
+/* Noticias de Juegos*/
+.titulo1 {
+  color: #5dade2;
+  font-size: 30px;
+  text-align: center;
+}
+
+/* El estudio de Dragon Age y Mass Effect ha fichado a Mary DeMarle, jefa de narrativa de Deus Ex: Human Revolution, Deus Ex: Mankind Divided y Marvel's Guardians of the Galaxy.*/
+.subtitulo1 {
+  color: #5dade2;
+  font-size: 30px;
+}
+
+/* Lo que se sabe hasta ahora: */
+.informacion-Juegos {
+  color: #5dade2;
+  font-size: 30px;
+}
+
+/* Nuevas noticias acerca de RE4 Remake */
+.titulo2 {
+  color: #5dade2;
+  font-size: 30px;
+  text-align: center;
+}
+
+/* Resident Evil 4 Remake será mucho más terrorífico: la comparación con el juego original */
+.subtitulo2 {
+  color: #5dade2;
+  font-size: 30px;
+}
+
+/* Todo lo que se sabe de Resident Evil 4 Remake */
+.informacion-re4remake {
+  color: #5dade2;
+  font-size: 30px;
+}
+
+/* lista */
+li {
+  font-size: 25px;
+  background-color: #b3b6b7;
+  display: block;
+  width: 1500;
+  border: 1px solid #b3b6b7;
+}
+
+/* Foto */
+img {
+  margin-left: 315px;
+  width: 1200px;
+}
+
+/* links */
+a {
+  font-size: 25px;
+}
